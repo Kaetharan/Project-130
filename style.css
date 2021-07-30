@@ -1,0 +1,25 @@
+.disk1{
+    height:150px;
+    width: 150px;}
+.disk2{
+    height:150px;
+    width: 150px;
+}
+.volume_div{
+    float: left;
+}
+.speed_div{
+    float: right;
+}
+body{
+    background-size: cover;
+}
+.playButton{
+    width: 130px;
+    font-size: 25px;
+}
+canvas{
+    border: darkblue 5px solid;
+    border-radius: 20px;
+    box-shadow: darkcyan 5px 5px 5px;
+}
